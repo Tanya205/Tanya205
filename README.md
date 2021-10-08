@@ -20,11 +20,11 @@
 
 ### Let's Connect!!
 
-<a href="https://www.linkedin.com/in/khuranagarvit019/">
+<a href="">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/linkedin.png" />
 </a>
 
-<a href="https://twitter.com/khuranagarvit19">
+<a href="">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/000000/twitter--v1.png" />
 </a>
 <a href = "mailto: tanyamalhotra489@gmail.com">
