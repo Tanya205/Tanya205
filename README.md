@@ -2,17 +2,15 @@
 
 ![Tanya's Github Stats](https://github-readme-stats.vercel.app/api?username=Tanya205&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya205&show_icons=true&hide=css,JavaScript&theme=dracula)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanya205&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 
 
 ### I am good at:
-<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/java.png" title="Java"/></code>
+
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/firebase.png" title="Firebase"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
+<code><img width="40px" title="ML"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/firebase.png" title="Firebase"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
