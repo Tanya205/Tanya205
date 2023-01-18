@@ -1,9 +1,5 @@
 <!-- ### Hi there 👋 -->
 
-![Tanya's Github Stats](https://github-readme-stats.vercel.app/api?username=Tanya205&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya205&show_icons=true&hide=css,JavaScript&theme=dracula)
-
-
 ### I am good at:
 
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
@@ -18,12 +14,8 @@
 
 ### Let's Connect!!
 
-<a href="">
+<a href="https://www.linkedin.com/in/tanya-malhotra-0999001a9/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/linkedin.png" />
-</a>
-
-<a href="">
-  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/000000/twitter--v1.png" />
 </a>
 <a href = "mailto: tanyamalhotra489@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
